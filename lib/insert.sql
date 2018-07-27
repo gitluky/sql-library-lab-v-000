@@ -23,3 +23,4 @@ INSERT INTO books (title, year, series) VALUES ("A Storm of Swords", 2000, 2);
 INSERT INTO characters (name, motto, species, author, series) VALUES ("Harry Potter", "Harry Potter, Harry Potter, ooo, Harry Potter, Harry Potter, yeah!", "Wizard", 1, 1);
 INSERT INTO characters (name, motto, species, author, series) VALUES ("Ron Weasley", "Ron...Ron...Ron Weeeasley", "Wizard", 1, 1);
 INSERT INTO characters (name, motto, species, author, series) VALUES ("Hermione Granger", "HERMIONE!", "Half Muggle, Half Witch", 1, 1);
+INSERT INTO characters (name, motto, species, author, series) VALUES ("Severus Snape", "Snape, Snape, Severus Snape", "Wizard", 1, 1);
