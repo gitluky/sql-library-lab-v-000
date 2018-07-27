@@ -2,7 +2,7 @@
 INSERT INTO series (title, author_id, subgenre_id) VALUES ("Harry Potter", 1, 1);
 INSERT INTO series (title, author_id, subgenre_id) VALUES ("Game of Thrones", 2, 2);
 
-/*sub_genres*/
+/*subgenres*/
 INSERT INTO sub_genres (name) VALUES ("magic");
 INSERT INTO sub_genres (name) VALUES ("medieval");
 
