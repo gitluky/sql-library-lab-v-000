@@ -32,11 +32,11 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Ned
 
 /*characters_books*/
 
-INSERT INTO characters_books (character_id, book_id) VALUES (1,1);
-INSERT INTO characters_books (character_id, book_id) VALUES (1,2);
-INSERT INTO characters_books (character_id, book_id) VALUES (1,3);
-INSERT INTO characters_books (character_id, book_id) VALUES (2,1);
-INSERT INTO characters_books (character_id, book_id) VALUES (2,2);
-INSERT INTO characters_books (character_id, book_id) VALUES (2,3);
-INSERT INTO characters_books (character_id, book_id) VALUES (3,3);
-INSERT INTO characters_books (character_id, book_id) VALUES (4,1);
+INSERT INTO character_books (character_id, book_id) VALUES (1,1);
+INSERT INTO character_books (character_id, book_id) VALUES (1,2);
+INSERT INTO character_books (character_id, book_id) VALUES (1,3);
+INSERT INTO character_books (character_id, book_id) VALUES (2,1);
+INSERT INTO character_books (character_id, book_id) VALUES (2,2);
+INSERT INTO character_books (character_id, book_id) VALUES (2,3);
+INSERT INTO character_books (character_id, book_id) VALUES (3,3);
+INSERT INTO character_books (character_id, book_id) VALUES (4,1);
