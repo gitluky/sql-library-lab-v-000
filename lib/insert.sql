@@ -18,3 +18,8 @@ INSERT INTO books (title, year, series) VALUES ("A Game of Thrones", 1996, 2);
 INSERT INTO books (title, year, series) VALUES ("A Clash of Kings", 1998, 2);
 INSERT INTO books (title, year, series) VALUES ("A Storm of Swords", 2000, 2);
 
+/*characters*/
+
+INSERT INTO characters (name, motto, species, author, series) VALUES ("Harry Potter", "Harry Potter, Harry Potter, ooo, Harry Potter, Harry Potter, yeah!", "Wizard", 1, 1);
+INSERT INTO characters (name, motto, species, author, series) VALUES ("Ron Weasley", "Ron...Ron...Ron Weeeasley", "Wizard", 1, 1);
+INSERT INTO characters (name, motto, species, author, series) VALUES ("Hermione Granger", "HERMIONE!", "Half Muggle, Half Witch", 1, 1);
