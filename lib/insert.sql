@@ -30,7 +30,7 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Dae
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Oberyn Martell", "A good Lannister is a dead Lannister", "Human", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Ned Stark", "Winter is coming.", "Human", 2, 2);
 
-/*characters_books*/
+/*character_books*/
 
 INSERT INTO character_books (character_id, book_id) VALUES (1,1);
 INSERT INTO character_books (character_id, book_id) VALUES (1,2);
