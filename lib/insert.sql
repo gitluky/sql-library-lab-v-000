@@ -27,10 +27,12 @@ INSERT INTO characters (name, motto, species, author, series) VALUES ("Severus S
 
 INSERT INTO characters (name, motto, species, author, series) VALUES ("Jon Snow", "I'm a bastard.", "Targaryon", 2, 2);
 INSERT INTO characters (name, motto, species, author, series) VALUES ("Daenyrus Stormborn", "No slaves!", "Targaryon", 2, 2);
-INSERT INTO characters (name, motto, species, author, series) VALUES ("Tyrion Lannister", "A Lannister always pay their debts.", "Human", 2, 2);
+INSERT INTO characters (name, motto, species, author, series) VALUES ("Oberyn Martell", "A good Lannister is a dead Lannister", "Human", 2, 2);
 INSERT INTO characters (name, motto, species, author, series) VALUES ("Ned Stark", "Winter is coming.", "Human", 2, 2);
 
+/*characters_books*/
 
+INSERT INTO characters_books (character_id, )
 
 
 
