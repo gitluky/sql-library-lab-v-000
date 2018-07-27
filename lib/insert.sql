@@ -4,7 +4,7 @@ INSERT INTO series (title, author, sub_genre) VALUES ("Game of Thrones", 2, 2);
 
 /*sub_genres*/
 INSERT INTO sub_genres (name) VALUES ("magic");
-INSERT INTO sub_genres (name) vALUES ("medieval");
+INSERT INTO sub_genres (name) VALUES ("medieval");
 
 /*authors*/
 INSERT INTO authors (name) VALUES ("J.K Rowling");
