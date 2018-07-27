@@ -30,3 +30,9 @@ CREATE TABLE characters (
   author INTEGER,
   series INTEGER
 );
+
+CREATE TABLE characters_books (
+  id INTEGER PRIMARY KEY,
+  character_id INTEGER,
+  book_id INTEGER
+);
