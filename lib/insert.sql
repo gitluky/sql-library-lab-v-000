@@ -11,12 +11,12 @@ INSERT INTO authors (name) VALUES ("J.K Rowling");
 INSERT INTO authors (name) VALUES ("R.R Martin");
 
 /*books*/
-INSERT INTO books (title, year, series) VALUES ("The Philosopher's Stone", 1997, 1);
-INSERT INTO books (title, year, series) VALUES ("The Chamber of Secrets", 1998, 1);
-INSERT INTO books (title, year, series) VALUES ("The Goblet of Fire", 1999, 1);
-INSERT INTO books (title, year, series) VALUES ("A Game of Thrones", 1996, 2);
-INSERT INTO books (title, year, series) VALUES ("A Clash of Kings", 1998, 2);
-INSERT INTO books (title, year, series) VALUES ("A Storm of Swords", 2000, 2);
+INSERT INTO books (title, year, series_id) VALUES ("The Philosopher's Stone", 1997, 1);
+INSERT INTO books (title, year, series_id) VALUES ("The Chamber of Secrets", 1998, 1);
+INSERT INTO books (title, year, series_id) VALUES ("The Goblet of Fire", 1999, 1);
+INSERT INTO books (title, year, series_id) VALUES ("A Game of Thrones", 1996, 2);
+INSERT INTO books (title, year, series_id) VALUES ("A Clash of Kings", 1998, 2);
+INSERT INTO books (title, year, series_id) VALUES ("A Storm of Swords", 2000, 2);
 
 /*characters*/
 
